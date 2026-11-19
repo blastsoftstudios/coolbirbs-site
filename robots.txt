@@ -1,0 +1,6 @@
+Sitemap: https://coolbirbs.com/sitemap.xml
+User-agent: *
+Disallow: /birds/
+Disallow: /dataset/
+Disallow: /birds/*
+Disallow: /dataset/*
